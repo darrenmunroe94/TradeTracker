@@ -1,0 +1,18 @@
+Keep track of daily trades, realized P/L, and gain insight on personal trade patterns.
+
+Technology used:
+	-Java 18
+	-Spring/SpringBoot
+	-Spring Data JPA
+	-Thymeleaf
+	-MySQL
+	-AWS
+	
+Resources:
+	https://spring.io/guides/gs/accessing-data-mysql/
+	https://docs.oracle.com/en/java/javase/18/docs/api/java.base/java/util/Calendar.html
+	https://docs.oracle.com/en/java/javase/18/docs/api/java.base/java/math/BigDecimal.html
+	-Deploy App to AWS
+	https://www.youtube.com/watch?v=LJkkFx7zJJQ
+	-AWS MySQL DB setup
+	https://www.youtube.com/watch?v=v3jH1YxJqaY
