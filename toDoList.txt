@@ -1,0 +1,17 @@
+Update application.properties:
+	-dll-update
+	-url
+	-username
+	-password <---- CHANGE ASPAP ***MAJOR SECURITY RISK***
+	
+Progressions:
+	-TradeData object : Done
+	-Dummy database for testing : Done
+	-REST API end-points for CRUD operations : Partial
+	-Repository object with custom queries
+	-Service objects for data manipulation and analysis
+	-Controllers
+	-Templates
+	-Add validation
+	-Add security
+	-Change tomcat server port to match AWS server port
